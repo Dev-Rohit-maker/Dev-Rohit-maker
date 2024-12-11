@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Rohit-maker
 - 👀 I’m interested in learnign and building new projects idea
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on group projhjects and open source 
 - 📫 How to reach me rohit.rsware@gmail.com
 - 😄 Pronouns: he/him
